@@ -70,7 +70,7 @@
   		<div class="slds-card__header slds-grid">
     		<header class="slds-media slds-media_center slds-has-flexi-truncate">
       		<div class="slds-media__figure">
-        		<span class="slds-icon_container slds-icon-custom-custom90" title="custom90">
+        		<span class="slds-icon_container slds-icon-custom-custom90" title="Matters">
           			<svg class="slds-icon slds-icon_small" aria-hidden="true">
             			<use xlink:href="/assets/icons/custom-sprite/svg/symbols.svg#custom90"></use>
           			</svg>
@@ -127,7 +127,7 @@
   		<div class="slds-card__header slds-grid">
     		<header class="slds-media slds-media_center slds-has-flexi-truncate">
       		<div class="slds-media__figure">
-        		<span class="slds-icon_container slds-icon-standard-opportunity" title="opportunity">
+        		<span class="slds-icon_container slds-icon-standard-opportunity" title="Opportunities">
           			<svg class="slds-icon slds-icon_small" aria-hidden="true">
             			<use xlink:href="/assets/icons/standard-sprite/svg/symbols.svg#opportunity"></use>
           			</svg>
@@ -177,7 +177,7 @@
   		<div class="slds-card__header slds-grid">
     		<header class="slds-media slds-media_center slds-has-flexi-truncate">
       		<div class="slds-media__figure">
-        		<span class="slds-icon_container slds-icon-standard-event" title="event">
+        		<span class="slds-icon_container slds-icon-standard-event" title="Events">
           			<svg class="slds-icon slds-icon_small" aria-hidden="true">
             			<use xlink:href="/assets/icons/standard-sprite/svg/symbols.svg#event"></use>
           			</svg>
@@ -228,7 +228,7 @@
   		<div class="slds-card__header slds-grid">
     		<header class="slds-media slds-media_center slds-has-flexi-truncate">
       		<div class="slds-media__figure">
-        		<span class="slds-icon_container slds-icon-standard-account" title="Account">
+        		<span class="slds-icon_container slds-icon-standard-account" title="Accounts">
           			<svg class="slds-icon slds-icon_small" aria-hidden="true">
             			<use xlink:href="/assets/icons/standard-sprite/svg/symbols.svg#account"></use>
           			</svg>
@@ -275,7 +275,7 @@
  	<div class="slds-card__header slds-grid">
     	<header class="slds-media slds-media_center slds-has-flexi-truncate">
       		<div class="slds-media__figure">
-        		<span class="slds-icon_container slds-icon-standard-contract" title="event">
+        		<span class="slds-icon_container slds-icon-standard-contract" title="Contracts">
           			<svg class="slds-icon slds-icon_small" aria-hidden="true">
             			<use xlink:href="/assets/icons/standard-sprite/svg/symbols.svg#contract"></use>
           			</svg>
@@ -326,7 +326,7 @@
  	<div class="slds-card__header slds-grid">
     	<header class="slds-media slds-media_center slds-has-flexi-truncate">
       		<div class="slds-media__figure">
-        		<span class="slds-icon_container slds-icon-standard-contact" title="event">
+        		<span class="slds-icon_container slds-icon-standard-contact" title="Contacts">
           			<svg class="slds-icon slds-icon_small" aria-hidden="true">
             			<use xlink:href="/assets/icons/standard-sprite/svg/symbols.svg#contact"></use>
           			</svg>
